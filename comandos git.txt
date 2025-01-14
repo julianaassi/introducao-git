@@ -5,3 +5,7 @@ git commit -m "mensagem commit"
 git push origin main
 git status -verificar 
 git clear- limpar tela 
+
+agora estamos na branch nova 
+
+git checkout -b dev
